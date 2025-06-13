@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates advanced proficiency in **SQL window functions** through practical application on an employee dataset. Designed for seasoned **data analysts** and **SQL professionals**, the project highlights mastery of complex querying techniques essential for sophisticated **data analysis**, **business intelligence**, and **performance reporting**.
+This project demonstrates advanced proficiency in **SQL window functions** through practical application on an employee dataset. Designed for **data analysts** and **SQL professionals**, the project highlights mastery of complex querying techniques essential for sophisticated **data analysis**, **business intelligence**, and **performance reporting**.
 
 Key window functions utilized include `ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`, `LAG()`, `LEAD()`, and cumulative `SUM()`, enabling nuanced **ranking**, **running totals**, and **sequential data comparisons** within grouped data partitions.
 
